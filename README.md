@@ -117,7 +117,7 @@ The project includes comprehensive test coverage using pytest framework.
 
 * Board initialization and validation  
 * All swipe directions (left, right, up, down)  
-* Tile merging logic  
+* Tile merging logic  (sometimes double merging bug occurs, it makes game easier)
 * Score calculation  
 * Random tile generation  
 * Game-over detection  
@@ -141,3 +141,4 @@ The core game logic in `mechanics.py` is thoroughly tested with unit tests to en
 * Reinforcement Learning: Train AI agent to play the game optimally
 * High score persistence: Save best scores to disk
 * Full testing: Test with mock pygame inits
+* Fix bugs: double merging in certain situations
