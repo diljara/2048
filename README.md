@@ -15,14 +15,14 @@ Score tracking: Real-time score display
 Smooth animations: Built with pygame for responsive gameplay
 
 Project Structure
-project_2048_graphic/
-├── project.py              # Main entry point, game state management (menus, gameplay)
-├── mechanics.py            # Game logic and board mechanics
-├── interface.py            # UI components (buttons, colors)
-├── test_mechanics.py       # Tests for game mechanics
-├── test_interface.py      # Tests for interface (colors)
-├── requirements.txt        # Project dependencies
-└── README.md              # This file
+    project_2048_graphic/
+    ├── project.py              # Main entry point, game state management (menus, gameplay)
+    ├── mechanics.py            # Game logic and board mechanics
+    ├── interface.py            # UI components (buttons, colors)
+    ├── test_mechanics.py       # Tests for game mechanics
+    ├── test_interface.py      # Tests for interface (colors)
+    ├── requirements.txt        # Project dependencies
+    └── README.md              # This file
 
 How to Play
 
