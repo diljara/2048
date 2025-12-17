@@ -21,7 +21,7 @@ This is a Python implementation of the popular 2048 puzzle game with a graphical
     ├── mechanics.py            # Game logic and board mechanics  
     ├── interface.py            # UI components (buttons, colors)  
     ├── game_epochs.py          # Game state management (menus, gameplay)  
-    ├── test_mechanics.py       # Tests for game mechanics  
+    ├── test_project.py         # Tests for game mechanics  
     ├── test_interface.py       # Tests for color functions  
     ├── requirements.txt        # Project dependencies  
     └── README.md               # This file  
