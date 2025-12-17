@@ -1,5 +1,5 @@
 # 2048
-#### Video Demo:  <URL HERE>
+#### Video Demo:  [https://youtu.be/xRpc85aD0SE]
 #### Description:
 
 # WHAT DOES THE GAME DO?
